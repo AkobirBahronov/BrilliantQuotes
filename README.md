@@ -1,3 +1,11 @@
+# Acknowledgement: This is a project that I have done during the course: https://www.udemy.com/course/react-the-complete-guide-incl-redux/
+
+## This is quote app, in this app, you can add quote, can comment others quotes and you can try many other thing by taking a look at its demo: https://react-http-3a514.web.app
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
